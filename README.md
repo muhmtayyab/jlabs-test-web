@@ -4,9 +4,7 @@ A sample web app with a Node.js API and React frontend for user authentication a
 
 ## Quick Start
 
-### 1. API (Node.js)
-
-### 2. Web (React)
+### 1. Web (React)
 
 ```bash
 cd web
@@ -14,7 +12,7 @@ npm install
 npm run dev       # Runs at http://localhost:5173
 ```
 
-### 3. Login
+### 2. Login
 
 - Email: `user@example.com`
 - Password: `password123`
